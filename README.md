@@ -72,8 +72,8 @@ When the user opens the application, the screen displays the student's name and 
 
 ### Student Details
 
-* **Name:** SWARUPA S
-* **USN:** 25MCAR0137
+* **Name:** Devraath Joshi
+* **USN:** 25MCAR0091
 
 ---
 
@@ -252,8 +252,8 @@ The application displays the following interface:
 
 
 
+<img width="1815" height="960" alt="image" src="https://github.com/user-attachments/assets/a5dc0f50-1238-4101-bf64-7e7458b5070c" />
 
-https://github.com/user-attachments/assets/7978bb78-d888-485d-8095-795a2f59530f
 
 
 
