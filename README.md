@@ -248,11 +248,10 @@ The application displays the following interface:
       **USN:** 25MCAR0091
 
        [ Show Notification ]
---------------------------------
 
 
 
-<img width="1815" height="960" alt="image" src="https://github.com/user-attachments/assets/a5dc0f50-1238-4101-bf64-7e7458b5070c" />
+
 
 
 
@@ -290,8 +289,8 @@ After completing this experiment, the following concepts were understood:
 
 * Computer/Laptop
 * Android Emulator or Android smartphone
+<img width="1862" height="960" alt="image" src="https://github.com/user-attachments/assets/5a483df8-fd89-42e7-aeda-2fbc48f2d79e" />
 
----
 
 # ✅ Conclusion
 
